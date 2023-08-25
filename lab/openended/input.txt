@@ -1,0 +1,8 @@
+Rangpur Rajshahi
+Rajshahi Rangpur Mymensingh Dhaka Khulna
+Khulna Rajshahi Dhaka Barishal
+Mymensingh Rajshahi Dhaka Sylhet
+Sylhet Mymensingh Dhaka Chittagong
+Chittagong Sylhet Dhaka Barishal
+Barishal Khulna Dhaka Chittagong
+Dhaka Rajshahi Mymensingh Sylhet Chittagong Barishal Khulna
